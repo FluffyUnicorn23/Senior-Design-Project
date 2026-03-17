@@ -3,4 +3,5 @@ Here's the CAD: https://cad.onshape.com/documents/35cedc4fd32da1112f2db6dc/w/ea1
 Here's a demo video: https://youtu.be/FZC90bBZnzc
 
 And here's our group: Christian (Left), Ricky (Middle), Isaiah (Right)
-![seniord_design.png](image-url)
+
+![Alt text](senior_design.png)
